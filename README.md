@@ -1,1 +1,2 @@
-# introjavascript
+# intro-javascript
+# openclassrooms courses
